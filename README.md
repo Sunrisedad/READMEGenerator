@@ -1,6 +1,7 @@
 # README Generator
 
-!https://img.shields.io/badge/Javascript-100%25-brightgreen
+[![made-with-javascript](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)](https://www.javascript.com)
+
 
 ## Description 
 
