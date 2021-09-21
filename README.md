@@ -56,7 +56,7 @@ https://watch.screencastify.com/v/cTLxRLQa6eF8MxocpTI1
 
 ## Tests
 
-To test the app, run node index from the command line and answer the questions
+To test the app, run "node index" from the command line and answer the questions
 
 ## Questions
 
