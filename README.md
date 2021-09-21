@@ -1,5 +1,7 @@
 # README Generator
 
+https://img.shields.io/badge/Javascript-100%25-brightgreen
+
 ## Description 
 
 Whenever creating a project on Github, its best practice to include a README for the project. The purpose of the README is to convey what the project is about. This can include the project title, description, purpose, how to use it ect. This particular project is a README Generator. Using this app you will be able to generate a README all from the command line! This allows ease of use for developers using your app.
