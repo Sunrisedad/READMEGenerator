@@ -12,6 +12,7 @@ function generateMarkdown(data) {
   * [Tests](#tests)
   * [License](#license)
   * [Contributions](#contributions)
+  * [Questions](#questions)
   
   
   # Description
@@ -31,6 +32,9 @@ function generateMarkdown(data) {
 
   # Contributions
   ${data.contributions}
+
+  # Questions
+  ${data.questions}
 
 
   

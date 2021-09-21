@@ -9,13 +9,14 @@
   * [Tests](#tests)
   * [License](#license)
   * [Contributions](#contributions)
+  * [Questions](#questions)
   
   
   # Description
-  create quality readme
+  generate readme from command line
   
   # Installation
-  clone repo, install dependencies
+  clone repo, install dependencies with npm install
 
   # Usage
   answer the questions
@@ -28,6 +29,9 @@
 
   # Contributions
   NA
+
+  # Questions
+  zane21@gmail.com
 
 
   

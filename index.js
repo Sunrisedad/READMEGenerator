@@ -65,6 +65,13 @@ const questions = [
         message: 'Who helped contribute to your app?',
         
     },
+
+    {
+        type: 'input',
+        name: 'questions',
+        message: 'Add your email for future questions!',
+        
+    },
 ];
 
 // FUNCTION TO WRITE README FILE
