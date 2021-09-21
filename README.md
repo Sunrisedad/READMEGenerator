@@ -14,6 +14,7 @@ Whenever creating a project on Github, its best practice to include a README for
 * [Features](#features)
 * [Contributions](#contributions)
 * [Tests](#tests)
+* [Questions](#questions)
 
 
 ## Installation
