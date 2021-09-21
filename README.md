@@ -30,7 +30,9 @@ https://watch.screencastify.com/v/cTLxRLQa6eF8MxocpTI1
 
 ## License
 
-MIT
+
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
+
 
 ## Features
 
