@@ -22,7 +22,7 @@ Clone the repo, open the command line from the directory. From there you want to
 
 ## Usage 
 
-https://watch.screencastify.com/v/lXgsubWJGSzL2qzE1otF
+
 
 ## License
 
@@ -51,5 +51,9 @@ MIT
 ## Tests
 
 To test the app, run node index from the command line and answer the questions
+
+## Questions
+
+email: zane21@gmail.com
 
 
