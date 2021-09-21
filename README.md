@@ -23,7 +23,7 @@ Clone the repo, open the command line from the directory. From there you want to
 
 ## Usage 
 
-
+https://watch.screencastify.com/v/cTLxRLQa6eF8MxocpTI1
 
 ## License
 
